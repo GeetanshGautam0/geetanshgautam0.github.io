@@ -18,7 +18,7 @@ Use this application to quiz people, conduct trivia, etc. Newer versions are mor
 
 ## Version 2
 <a href="https://geetanshgautam0.github.io/Quizzing-Application-2">Visit Github Page</a>
-<br>
+
 <a href="https://geetanshgautam.wixsite.com/home/qa-ver2-product-page">Visit Product Page</a>
 
 ## Version 1
