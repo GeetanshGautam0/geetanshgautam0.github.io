@@ -1,10 +1,12 @@
 # External Links
-<ul>
-  <li>
-    <a href="https://geetanshgautam.wixsite.com/home", target="_"><strong>Main Website</strong></a>
-  </li>
-</ul>
-  
+<strong>
+  <ul>
+    <li>
+      <a href="https://geetanshgautam.wixsite.com/home", target="_">Main Website</a>
+    </li>
+  </ul>
+</strong>
+
 # Quizzing Application
 
 Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also. 
@@ -16,6 +18,7 @@ Use this application to quiz people, conduct trivia, etc. Newer versions are mor
 
 ## Version 2
 <a href="https://geetanshgautam0.github.io/Quizzing-Application-2">Visit Github Page</a>
+<br>
 <a href="https://geetanshgautam.wixsite.com/home/qa-ver2-product-page">Visit Product Page</a>
 
 ## Version 1
