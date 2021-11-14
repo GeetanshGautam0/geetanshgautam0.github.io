@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    <a href="https://geetanshgautam.wixsite.com/home"><strong>Main Website</strong></a>
+    <a href="https://geetanshgautam.wixsite.com/home">**Main Website**</a>
   </li>
 </ul>
 
