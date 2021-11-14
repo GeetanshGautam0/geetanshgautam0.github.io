@@ -1,12 +1,11 @@
 # External Links
 
-<strong>
-  <ul>
-    <li>
-      <a href="https://geetanshgautam.wixsite.com/home">Main Website</a>
-    </li>
-  </ul>
-</strong>
+<ul>
+  <li>
+    <a href="https://geetanshgautam.wixsite.com/home"><strong>Main Website</strong></a>
+  </li>
+</ul>
+
 
 # Quizzing Application
 <strong>Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also.</strong>
