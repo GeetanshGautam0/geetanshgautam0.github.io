@@ -1,4 +1,5 @@
 # External Links
+
 <strong>
   <ul>
     <li>
@@ -8,8 +9,7 @@
 </strong>
 
 # Quizzing Application
-
-Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also. 
+<strong>Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also.</strong>
 
 ## Version 3
 <em><strong>This version is currently under development</strong></em>
