@@ -22,6 +22,7 @@
 
 <ul>
   <li>
-    <a href="https://geetanshgautam.wixsite.com/home">Main Website</a>
+    <a href="https://geetansh.ca">New Website</a>
+    <a href="https://geetanshgautam.wixsite.com/home">Old Website</a>
   </li>
 </ul>
