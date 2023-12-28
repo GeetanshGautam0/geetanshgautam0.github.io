@@ -5,8 +5,11 @@
 # Quizzing Application
 <strong>Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also.</strong>
 
-## Version 3
+## Version 4
 <em><strong>This version is currently under development</strong></em>
+<a href="https://geetanshgautam0.github.io/QAS4">Track Development</a>
+
+## Version 3 - DEPRICATED
 
 <a href="https://geetanshgautam0.github.io/QAS-3-2">Track Development</a>
 
