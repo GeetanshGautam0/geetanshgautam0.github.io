@@ -1,6 +1,7 @@
-# CMF OS (v3) \[UEFI Compatible\]
-<strong>Experimental OS that supports UEFI based systems; NOT TESTED ON REAL HARDWARE</strong> <br>
-[Track Development](https://github.com/GeetanshGautam0/CMF-OS-V3)
+<a href="https://geetansh.ca">My Main Website</a>
+
+# OSDEV V4 (Legacy Bootloader)
+<a href="https://github.com/GeetanshGautam0/osdev-v4">Track Development</a>
 
 # Quizzing Application
 <strong>Use this application to quiz people, conduct trivia, etc. Newer versions are more secure than older ones (this includes file encryption), and are much faster also.</strong>
